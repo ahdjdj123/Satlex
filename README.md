@@ -97,8 +97,10 @@ The intended technology ecosystem includes:
 - Tailwind CSS — Consistent and responsive styling.
 - Local Storage — Client-side persistence where implemented.
 - Vercel — Web deployment and hosting.
+<img width="1280" height="577" alt="image" src="https://github.com/user-attachments/assets/0f432b22-9896-4cb9-80b6-be1e8d0837ad" />
 
 *Confirm the final implementation against the repository before treating this list as the definitive technology stack.*
+<img width="1280" height="577" alt="image" src="https://github.com/user-attachments/assets/4db019b2-5590-4629-8576-3956e01a5b4c" />
 
 ## Project Vision
 
