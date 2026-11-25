@@ -112,7 +112,7 @@ The ultimate objective is to make vocabulary acquisition more systematic and acc
 
 ## Live Project
 
-🌐 **Website:** https://satlex-navy.vercel.app/
+🌐 **Website:**[ https://satlex-navy.vercel.app/](https://satlex-zeta.vercel.app/)
 
 ## Development
 
